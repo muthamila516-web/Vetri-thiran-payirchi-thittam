@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "username": "admin",
+        "email": "admin@pocketsmart.ai",
+        "full_name": "PocketSmart Admin",
+        "hashed_password": "$2b$12$ECkQuExjcl6x.RVnX24cWeg3bPOLLdP50MtJlkNQLBu5d0Uh2sOFe"
+    },
+    "mani": {
+        "username": "mani",
+        "email": "jamesbond123@gmail.com",
+        "full_name": "mani",
+        "hashed_password": "$2b$12$6/TbLh8xdatM12I5/C1f1eBV7i9Suea8.yjGtzb7D0OyPYyJcRKXS"
+    }
+}
